@@ -3,7 +3,7 @@
 
 Welcome to the Eye Cursor Control with Voice Detection project! This repository contains the code and resources necessary to build a system that allows you to move the cursor on your computer screen using eye movements and also includes voice detection capabilities. This project aims to provide an alternative input method for individuals with motor disabilities or those who prefer a hands-free interaction with their computers.
 
-## Features
+## Feature
 
 1. **Eye Cursor Control**: The project utilizes eye-tracking technology to track the movement of the user's eyes and translate those movements into cursor movements on the screen. This allows users to control the cursor simply by looking at different areas of the screen.
 
