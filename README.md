@@ -50,15 +50,8 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 
 ## Acknowledgments
 
-We would like to acknowledge the following resources and libraries that have been instrumental in the development of this project:
-
-- [EyeTrackingLib](https://example.com/eyetrackinglib) - A powerful eye-tracking library for Python.
-- [VoiceRecognitionLib](https://example.com/voicerecognitionlib) - A versatile voice recognition library for Python.
-
-We are grateful to the developers of these libraries for their hard work and dedication.
-
 ## Contact
 
-If you have any questions, feedback, or inquiries about this project, please contact us at project@example.com. We would be happy to assist you.
+If you have any questions, feedback, or inquiries about this project, please contact us at sammacherla18@gmail.com. We would be happy to assist you.
 
 Happy eye cursor controlling with voice detection!
